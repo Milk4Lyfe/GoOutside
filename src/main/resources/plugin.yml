@@ -1,5 +1,5 @@
 name: GoOutside
-version: '1.0-SNAPSHOT'
+version: '1.0'
 main: org.milk4lyfe.goOutside.GoOutside
 api-version: '1.21'
 commands:
