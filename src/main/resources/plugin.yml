@@ -1,0 +1,7 @@
+name: GoOutside
+version: '1.0-SNAPSHOT'
+main: org.milk4lyfe.goOutside.GoOutside
+api-version: '1.21'
+commands:
+  goOutside:
+    description: Makes you go outside.

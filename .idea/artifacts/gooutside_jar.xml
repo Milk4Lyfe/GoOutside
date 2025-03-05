@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gooutside:jar">
+    <output-path>D:/Downloads/Paper 1.21.4/plugins</output-path>
+    <root id="archive" name="gooutside.jar">
+      <element id="module-output" name="gooutside" />
+    </root>
+  </artifact>
+</component>
